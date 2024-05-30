@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="EightQueensSolver.DataStructures.PriorityQueue&lt;T&gt;">
+    <Position X="9.25" Y="1.25" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EightQueensSolver.Entities.Node">
+    <Position X="4.75" Y="1" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EightQueensSolver.Entities.Queen">
+    <Position X="9.5" Y="6" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EightQueensSolver.Entities.State">
+    <Position X="4.75" Y="6.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EightQueensSolver.Solver">
+    <Position X="4.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="KursovaRobota.EightQueensInterface">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>RACAAAAAACAAQBEAAACAAAAKAsw7AAAA0HAPAAEAAAA=</HashCode>
+      <FileName>EightQueensInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovaRobota.Program">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

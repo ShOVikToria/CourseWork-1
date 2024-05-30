@@ -1,0 +1,11 @@
+D:\Projects\II semestr\EightQueensSolver\bin\Debug\net8.0\EightQueensSolver.deps.json
+D:\Projects\II semestr\EightQueensSolver\bin\Debug\net8.0\EightQueensSolver.dll
+D:\Projects\II semestr\EightQueensSolver\bin\Debug\net8.0\EightQueensSolver.pdb
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.AssemblyInfoInputs.cache
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.AssemblyInfo.cs
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.csproj.CoreCompileInputs.cache
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.dll
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\refint\EightQueensSolver.dll
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\EightQueensSolver.pdb
+D:\Projects\II semestr\EightQueensSolver\obj\Debug\net8.0\ref\EightQueensSolver.dll

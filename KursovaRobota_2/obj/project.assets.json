@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "EightQueensSolver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EightQueensSolver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EightQueensSolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EightQueensSolver/1.0.0": {
+      "type": "project",
+      "path": "../EightQueensSolver/EightQueensSolver.csproj",
+      "msbuildProject": "../EightQueensSolver/EightQueensSolver.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "EightQueensSolver >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Viktoria\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\II semestr\\KursovaRobota_2\\EightQueens.csproj",
+      "projectName": "EightQueens",
+      "projectPath": "D:\\Projects\\II semestr\\KursovaRobota_2\\EightQueens.csproj",
+      "packagesPath": "C:\\Users\\Viktoria\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\II semestr\\KursovaRobota_2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Viktoria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "projectReferences": {
+            "D:\\Projects\\II semestr\\EightQueensSolver\\EightQueensSolver.csproj": {
+              "projectPath": "D:\\Projects\\II semestr\\EightQueensSolver\\EightQueensSolver.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

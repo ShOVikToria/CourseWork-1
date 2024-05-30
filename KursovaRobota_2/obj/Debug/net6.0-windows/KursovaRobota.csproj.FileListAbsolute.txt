@@ -1,0 +1,49 @@
+D:\Projects\II semestr\KursovaRobota\bin\Debug\net6.0-windows\KursovaRobota.exe
+D:\Projects\II semestr\KursovaRobota\bin\Debug\net6.0-windows\KursovaRobota.deps.json
+D:\Projects\II semestr\KursovaRobota\bin\Debug\net6.0-windows\KursovaRobota.runtimeconfig.json
+D:\Projects\II semestr\KursovaRobota\bin\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota\bin\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.Form1.resources
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.csproj.GenerateResource.cache
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfoInputs.cache
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfo.cs
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.csproj.CoreCompileInputs.cache
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\refint\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\KursovaRobota.genruntimeconfig.cache
+D:\Projects\II semestr\KursovaRobota\obj\Debug\net6.0-windows\ref\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2\bin\Debug\net6.0-windows\KursovaRobota.exe
+D:\Projects\II semestr\KursovaRobota_2\bin\Debug\net6.0-windows\KursovaRobota.deps.json
+D:\Projects\II semestr\KursovaRobota_2\bin\Debug\net6.0-windows\KursovaRobota.runtimeconfig.json
+D:\Projects\II semestr\KursovaRobota_2\bin\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2\bin\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.Form1.resources
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.csproj.GenerateResource.cache
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfoInputs.cache
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfo.cs
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.csproj.CoreCompileInputs.cache
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\refint\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\KursovaRobota.genruntimeconfig.cache
+D:\Projects\II semestr\KursovaRobota_2\obj\Debug\net6.0-windows\ref\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2 – копія\bin\Debug\net6.0-windows\KursovaRobota.exe
+D:\Projects\II semestr\KursovaRobota_2 – копія\bin\Debug\net6.0-windows\KursovaRobota.deps.json
+D:\Projects\II semestr\KursovaRobota_2 – копія\bin\Debug\net6.0-windows\KursovaRobota.runtimeconfig.json
+D:\Projects\II semestr\KursovaRobota_2 – копія\bin\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2 – копія\bin\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.Form1.resources
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.csproj.GenerateResource.cache
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfoInputs.cache
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.AssemblyInfo.cs
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.csproj.CoreCompileInputs.cache
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\refint\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.pdb
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.genruntimeconfig.cache
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\ref\KursovaRobota.dll
+D:\Projects\II semestr\KursovaRobota_2 – копія\obj\Debug\net6.0-windows\KursovaRobota.Properties.Resources.resources

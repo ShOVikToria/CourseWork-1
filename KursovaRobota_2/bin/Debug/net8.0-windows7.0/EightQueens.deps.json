@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EightQueens/1.0.0": {
+        "dependencies": {
+          "EightQueensSolver": "1.0.0"
+        },
+        "runtime": {
+          "EightQueens.dll": {}
+        }
+      },
+      "EightQueensSolver/1.0.0": {
+        "runtime": {
+          "EightQueensSolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EightQueens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EightQueensSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
